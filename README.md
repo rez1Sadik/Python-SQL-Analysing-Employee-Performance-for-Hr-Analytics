@@ -1,1 +1,0 @@
-# python-sql-Analysing-Employee-Performance-for-Hr-Analytics
