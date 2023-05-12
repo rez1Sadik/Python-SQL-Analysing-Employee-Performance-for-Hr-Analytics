@@ -1,6 +1,6 @@
 ## Analysing Employee Performance for Hr Analytics Using Python and MySQL
 
-![info.jpeg](attachment:info.jpeg)
+![info.jpeg](images/info.jpeg)
 
 ***
 
